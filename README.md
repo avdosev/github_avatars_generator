@@ -10,5 +10,5 @@
 python3 gen.py [avatar_size] [nickname]
 ```
 
-avatar_size - number must be multiple 12
+avatar_size - number must be multiple 12 \
 nickname - string
